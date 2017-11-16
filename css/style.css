@@ -3,8 +3,8 @@
 }
 #body{ 
 background-image:url("background.jpg");
- background-repeat: repeat-y;
-        
+ background-repeat: repeat;
+    background-size:500px;
 }
 #container { 
  width:600px; 
@@ -21,7 +21,7 @@ background-image:url("background.jpg");
  background:#333;
     text-align: center;
  }
- 
+
 #logo { 
  float:left; 
 }
@@ -39,7 +39,11 @@ background-image:url("background.jpg");
  height:20px; 
  clear:both; 
 }
-
+#navbar1 ul {
+     margin:0; 
+ padding:0; 
+ list-style-type:none; 
+}
 #navbar ul { 
  margin:0; 
  padding:0; 
