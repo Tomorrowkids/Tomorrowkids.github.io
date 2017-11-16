@@ -3,8 +3,9 @@
      background-image:url("background.jpg");
          width:100px;
         height:100px;
-    background-repeat: repeat;
-        
+    background-repeat: repeat-y;
+           background-size: 100px;
+
 }
 body { 
 background-image:url("background.jpg");
