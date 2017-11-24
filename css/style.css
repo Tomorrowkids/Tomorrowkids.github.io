@@ -71,7 +71,7 @@ background-image:url("../Pictures/background.jpg");
 }
 .banner2 {
     background: url(../Pictures/Header_Kids_Holding_Hands.jpg) repeat ;
-    width:100%;width: 100px;
+    width:100%;
     height: 105px;
     display: block;
 }
