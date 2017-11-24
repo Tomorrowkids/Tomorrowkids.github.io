@@ -63,12 +63,6 @@ background-color:darkorange;
  display:block;
 }
 
-#banner { 
- background:url(../Pictures/Header_Kids_Holding_Hands.jpg);
- height:120px; 
- padding:20px;
- clear: both;
-}
 .banner2 {
     background: url(../Pictures/Header_Kids_Holding_Hands.jpg) repeat ;
     width:100%;
