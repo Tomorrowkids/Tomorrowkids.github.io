@@ -1,15 +1,23 @@
 #html{ 
  font-family: Arial, Helvetica, sans-serif; color:#333; 
 }
+#form{
+align-content: center;
+}
+.Breakfast{
+    text-align: center;
+}
+.Lunch{
+        text-align: center;
+}
+.Snack{
+        text-align: center;
+}
 #body{ 
 background-color:darkorange;
  background-repeat: repeat;
     background-size:500px;
-}
-#container { 
- width:600px; 
- margin:0 auto; 
- background:#fff; 
+    align-content: center;
 }
 #head{
     text-align: center;
@@ -21,11 +29,9 @@ background-color:darkorange;
  background:#333;
     text-align: center;
  }
-
 #logo { 
  float:left; 
 }
-
 #top_info { 
  float:right; 
  width:100px; 
@@ -34,59 +40,11 @@ background-color:darkorange;
  border:1px solid #c7c7c7; 
  margin:10px; 
 }
-
-#navbar { 
- height:20px; 
- clear:both; 
-}
-#navbar1 ul {
-     margin:0; 
- padding:0; 
- list-style-type:none; 
-}
-#navbar ul { 
- margin:0; 
- padding:0; 
- list-style-type:none; 
-}
-
-#navbar ul li { 
- padding:10px; 
- float:left; 
-}
-
-#navbar ul li a { 
- font-size:12px; 
- float:left; 
- float:left;
- padding:0 0 0 20px; 
- display:block;
-}
-
 .banner2 {
     background: url(../Pictures/Header_Kids_Holding_Hands.jpg) repeat ;
     width:100%;
     height: 105px;
     display: block;
-}
-#left_col { 
- float:left; 
- width:250px; 
- padding:20px; 
- height:200px; 
- border:1px solid #333; 
- color:black; 
- background:white; 
-
-}
-#right_col { 
- float:right; 
- width:250px; 
- height:200px; 
- border:1px solid #333; 
- color:#FFF; 
- background:#000; 
- padding:20px; 
 }
 #footer { 
  padding:20px; 
@@ -94,4 +52,8 @@ background-color:darkorange;
 }
 a:link{
     color: black;
+}
+.DiaperChecks {
+align-content: center;
+    position: relative; top: -3px;
 }
